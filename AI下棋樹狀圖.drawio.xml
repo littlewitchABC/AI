@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2023-12-09T09:44:34.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q1X4nspw8rqndVl6KaJm" version="22.1.7" type="device"><diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">jZJNb4MwDIZ/TY6T+Chde1w7Rjtppx6mHV0wJFogKIRC++sXFlNA1aSd4jyv4ySvzcJ92Scaav6hMpQs8LKeha8sCPxVsLLLQK5Eoo3nSKFFRmwCJ3FDgmNaKzJsFolGKWlEvYSpqipMzYKB1qpbpuVKLm+tocAHcEpBPtJPkRlO1Pe8STigKDhdvYlIOEP6XWjVVnRfpSp0SgljGUptOGSqm6EwZuFeK2VcVPZ7lIOvo2Pu3Nsf6v3JGivznwP8AsevPJCHNhHvcPPb8/b4FK0iV+cCsiUzWLxl2zXb7FgcsZfnIXAfMNfRL1vZtsZudh0XBk81pIPS2fGwjJtS2p1vQ2hq169c9Ggfsnt8NX3kgtpgP0P0iwRViUZfbQqp0Zoc7aZWjfPG500iBjQcxb3S5JINyKhxOzXkV5tNfBj/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="N7nEBe1O_VKvx9bfbWzu">
+    <mxGraphModel dx="550" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageScaleValue="1" pageScaleWidth="827" pageScaleHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="buR7TbzvjLJpR8YneL8w-7" value="[O 玩家: '真人']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="243" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-9" value="[X 1,0] [玩家：'電腦']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="295" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-10" value="[O 2,0] [玩家：'真人']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="347" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-11" value="[X 0,1] [玩家：'電腦']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="399" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-12" value="[O 1,1] [玩家：'真人']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="451" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-13" value="[X 2,1] [玩家：'電腦']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="503" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-14" value="[O 0,2] [玩家：'真人']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="555" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-15" value="[X 1,2] [玩家：'電腦']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="607" cx="172.5" />
+        <mxCell id="QeTgP8OgwxMOjzVlmmtA-16" value="[O 2,2] [玩家：'真人']" style="group" vertex="1" connectable="0" connectEdges="0" allowOverlap="0" allowDanglingEdges="0" collapsed="0" tags="" customStyle="1" vertexContainer="1" href="" jmxObjectId="" dataRank="0" role="Concept" cy="659" cx="172.5" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
